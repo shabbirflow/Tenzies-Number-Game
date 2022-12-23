@@ -147,4 +147,7 @@ body{
   .rolls-track{
     font-size: 2vh;
   }
+  .die-num{
+    font-size: 5rem;
+  }
 }
