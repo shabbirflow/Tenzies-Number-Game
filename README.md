@@ -1,2 +1,6 @@
 # Tenzies-Number-Game
-A simple Tenzies game made with satisfying UI using ReactJS. 
+A fun Tenzies game made with satisfying UI using ReactJS. 
+
+Live site : https://tenzies-number-game.netlify.app/
+
+
